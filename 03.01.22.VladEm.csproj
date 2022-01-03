@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>_03._01._22.VladEm</RootNamespace>
+    <StartupObject>_03._01._22.VladEm.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
